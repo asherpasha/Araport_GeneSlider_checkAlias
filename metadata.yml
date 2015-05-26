@@ -1,0 +1,8 @@
+---
+description: "Check whether AGI/Alias exists in the BAR databases"
+name: araport_geneslider_checkalias
+type: passthrough
+url: "http://bar.utoronto.ca/webservices/araport/geneslider/checkAlias.cgi"
+version: 0.1.0
+whitelist:
+  - bar.utoronto.ca
